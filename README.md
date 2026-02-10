@@ -80,10 +80,4 @@ thirty_five_lpa/
 └── README.md
 ```
 
-## License
 
-This project is licensed under the MIT License.
-
-## Support
-
-For any issues or questions, please visit the GitHub Issues page at https://github.com/KundlikTech/ai-bot-5/issues
